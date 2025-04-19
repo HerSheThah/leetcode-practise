@@ -1,4 +1,7 @@
+
 package week3_arrayString.string242;
+import java.util.HashMap;
+
 //242. Valid Anagram
 //        Solved
 //        Easy
@@ -23,11 +26,6 @@ package week3_arrayString.string242;
 //
 //
 //        Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
-
-
-
-import java.util.HashMap;
-
 class Solution {
     public static boolean isAnagram(String s, String t){
         if(s.length()!= t.length())
