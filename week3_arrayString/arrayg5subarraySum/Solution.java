@@ -1,4 +1,4 @@
-package week3_arrayString.arrayg5;
+package week3_arrayString.arrayg5subarraySum;
 //Sum of Subarrays
 //        Difficulty: MediumAccuracy: 23.85%Submissions: 25K+Points: 4
 //        Given an array arr. Find the sum of all subarrays of the array since the sum could be very large print the sum modulo (109+7).

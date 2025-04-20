@@ -1,4 +1,4 @@
-package week3_arrayString.arrayg3;
+package week3_arrayString.arrayg3missingNumber;
 
 //Missing in Array
 //        Difficulty: EasyAccuracy: 29.59%Submissions: 1.3MPoints: 2Average Time: 15m

@@ -1,4 +1,4 @@
-package week3_arrayString.arrayg1;
+package week3_arrayString.arrayg1convertToWave;
 
 //Wave Array
 //        Difficulty: EasyAccuracy: 63.69%Submissions: 266K+Points: 2Average Time: 20m

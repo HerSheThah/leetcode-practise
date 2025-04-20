@@ -1,4 +1,4 @@
-package week3_arrayString.arrayg6;
+package week3_arrayString.arrayg6rearrange;
 
 //Modify an array such that if ‘arr[i]’ is ‘j’ then arr[j] becomes i
 //        Last Updated : 29 Mar, 2025

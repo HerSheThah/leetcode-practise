@@ -1,4 +1,4 @@
-package week3_arrayString.arrayg2;
+package week3_arrayString.arrayg2findEquilibrium;
 
 //Equilibrium Point
 //        Difficulty: EasyAccuracy: 28.13%Submissions: 634K+Points: 2Average Time: 15m

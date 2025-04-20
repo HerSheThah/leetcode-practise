@@ -1,4 +1,4 @@
-package week3_arrayString.arrayg4;
+package week3_arrayString.arrayg4minSwap;
 
 
 //Minimum swaps and K together
