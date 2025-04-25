@@ -1,4 +1,4 @@
-package week3_arrayString.array451;
+package week3_arrayString.string451;
 
 import java.util.HashMap;
 import java.util.Map;
