@@ -63,8 +63,9 @@ public class Solution {
         return count;
     }
 
+
     public static void main(String[] args) {
-        int[] arr= new int[]{-1, -1, -1, -1, 1, 5, 5, 7, 7, 7};
-        System.out.println(countPairs(arr, 6));
+        int[] arr= new int[]{-1, 10, 10, 12, 15};
+        System.out.println(countPairs(arr, 125));
     }
 }
